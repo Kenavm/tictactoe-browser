@@ -7,3 +7,13 @@ body {
     width: 300px;
     background-color: #ddd;
 }
+
+.box {
+    height: 96px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+.row {
+    display: flex;
+}
